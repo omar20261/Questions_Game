@@ -1,0 +1,131 @@
+{
+"questions":[{"question":" كم عدد الأشهر الحرم ؟ ","rightAnswer":"أربعة أشهر",
+  "falseAnswer1":"ثلاثة اشهر","falseAnswer2":"ستة اشهر ","falseAnswer3":"خمسة اشهر"}
+  ,{"question":" ما أكبر عضو في جسم الإنسان؟","rightAnswer":" الكبد",
+    "falseAnswer1":"الكلي","falseAnswer2":"القلب","falseAnswer3":"المعده"}
+  ,{"question":"كم المسافة التي يقطعها الجمل بدون شرب الماء ؟","rightAnswer":"400 كيلومتر",
+        "falseAnswer1":"1000 كيلومتر","falseAnswer2":"700 كيلومتر ","falseAnswer3":"100 كيلومتر"}
+  ,{"question":"ما أكبر المحيطات في العالم ؟","rightAnswer":"المحيط الهادئ",
+          "falseAnswer1":" المحيط الأطلنطي","falseAnswer2":" المحيط الهندي","falseAnswer3":"المحيط المتجمد الشمالي"}
+  ,{"question":"كم طول الأمعاء الدقيقة في جسم الإنسان","rightAnswer":"ثمانية أمتار",
+  "falseAnswer1":" ثلاثة أمتار ","falseAnswer2":" متران ","falseAnswer3":" عشر امتار"}
+  ,{"question":"كم عضلة يستخدم الإنسان عندما يتكلم ؟","rightAnswer":"44 عضلة",
+  "falseAnswer1":" 33 عضلة ","falseAnswer2":" 27 عضلة ","falseAnswer3":" 63 عضلة"}
+  ,{"question":"من هو مخترع الهاتف ؟","rightAnswer":"جراهام بل",
+  "falseAnswer1":" اديسون ","falseAnswer2":" الفريد نوبل ","falseAnswer3":"اينشتاين"}
+  ,{"question":"من هو مخترع المذياع ؟  ","rightAnswer":"دي فورست",
+  "falseAnswer1":" الفريد نوبل ","falseAnswer2":"جراهام بل","falseAnswer3":"اديسون "}
+  ,{"question":"أين يقع أكبر حقل بترول في العالم ؟","rightAnswer":"في الكويت",
+  "falseAnswer1":" في مصر ","falseAnswer2":" في ليبيا","falseAnswer3":" في السعودية "}
+  ,{"question":" من هو مخترع التلفاز ؟","rightAnswer":"فيل فارنذورث",
+    "falseAnswer1":"الفريد نوبل ","falseAnswer2":" دي فورست ","falseAnswer3":"اديسون  "}
+  ,{"question":" كم يبلغ عدد عيون النحلة  ؟  ","rightAnswer":" خمس عيون ",
+  "falseAnswer1":" ثلاثة عيون ","falseAnswer2":" ستة عيون ","falseAnswer3":" اربعة عيون "}
+ ,{"question":"كم يبلغ طول البحر الأحمر ؟ ","rightAnswer":"1400 ميل بحري",
+  "falseAnswer1":" 1100 ميل بحري ","falseAnswer2":" 2100 ميل بحري ","falseAnswer3":" 1600 ميل بحري"}
+  ,{"question":"ما أسم أول معركة قادها خالد إبن الوليد المسلمين ؟ ","rightAnswer":"معركة مؤته ",
+  "falseAnswer1":" معركة خيبر ","falseAnswer2":" معركة بدر ","falseAnswer3":"غزوة تبوك"}
+  ,{"question":"ما هي الدولة الأوروبية التي ليس ليها جيش","rightAnswer":"سويسرا",
+  "falseAnswer1":" المانيا  ","falseAnswer2":" فرنسا ","falseAnswer3":" هولندا "}
+  ,{"question":" كلمة (بنطلون) إلى أي لغة يرجع أصلها الي ؟","rightAnswer":"اللغة الإيطالية",
+  "falseAnswer1":"اللغة الفرنسية ","falseAnswer2":" اللغة الانجليزية ","falseAnswer3":" اللغة هولنديه"}
+  ,{"question":" ما هي أقوى عضلة في جسم الإنسان؟","rightAnswer":"عضلة الفك ",
+   "falseAnswer1":" عضلة الفخذ ","falseAnswer2":" عضلة الرقبه ","falseAnswer3":"عضلة الصدر "}
+  ,{"question":"ما هو الشيء الذي كلما طال قصر ؟ ","rightAnswer":"العمر",
+   "falseAnswer1":" الطريق ","falseAnswer2":" العلم ","falseAnswer3":" الموج "}
+  ,{"question":"سار عدد من الأولاد في صف فكانوا أربعة أمام ولد وأربعة خلف ولد وولد في الوسط فكم كان عدد الأولاد ؟","rightAnswer":" 5  اولاد",
+    "falseAnswer1":"  4 اولاد","falseAnswer2":" 10 اولاد ","falseAnswer3":" 8 اولاد"}
+  ,{"question":"ما هو الشيء الذي يحمل أكثر من 1000 طن ولا يستطيع أن يحمل مسمار ؟","rightAnswer":" البحر",
+    "falseAnswer1":" الظل","falseAnswer2":" الهواء ","falseAnswer3":" غير ذلك"}
+  ,{"question":"ابن أمك و ابن أبيك، و ليس بأختك و لا بأخيك .. فمن يكون؟","rightAnswer":"انا ",
+    "falseAnswer1":" اخي  ","falseAnswer2":" اابن خالي","falseAnswer3":" ابن عمي"}
+  ,{"question":"عشرة و عشرتين، ومثلهم مرتين، وخمسة و ثلاثة و اثنين، كم يساووا؟","rightAnswer":"100",
+   "falseAnswer1":" 150","falseAnswer2":" 99 ","falseAnswer3":" 75"}
+  ,{"question":"مرت امرأة على صديقة لها تتحدث مع شاب، فسألتها من هذا؟ فأجابت: أمي جابت أمه، و أخو زوجي يكون عمه فمن يكون؟","rightAnswer":" يكون ابنها",
+    "falseAnswer1":" يكون اخاها","falseAnswer2":" ييكون أباها","falseAnswer3":"يكون ابن خالها "}
+  ,{"question":" مر جماعة على امرأة تكلم رجلا..فسألوها:من يكون هذا؟ فأجابتهم مالكم و مالي، أخو زوجته يكون خالي فمن هو؟","rightAnswer":"يكون أباها ",
+    "falseAnswer1":" يكون أخاها ","falseAnswer2":" يكون ابنها ","falseAnswer3":"يكون ابن خالها "}
+  ,{"question":"ما هي الأعداد الثلاثة التي يساوي حاصل ضربها ، حاصل جمعها؟!!","rightAnswer":" 1-2-3 ",
+    "falseAnswer1":" 4-5-6 ","falseAnswer2":" 3-4-2 ","falseAnswer3":" 4-2-8"}
+  ,{"question":"شيء لا يمكنه المشي إلا إذا ضربته على رأسه؟ ","rightAnswer":"المسمار ",
+    "falseAnswer1":" السياره ","falseAnswer2":" الساعه ","falseAnswer3":" الباب "}
+  ,{"question":"تاجر من التجار إذا اقتلعنا عينه طار؟ فمن هو؟","rightAnswer":" عطار",
+   "falseAnswer1":" صياد ","falseAnswer2":" عمار ","falseAnswer3":" شطار"}
+   ,{"question":"ما هو الشي الذي يخترق الزجاج ولا يكسره ؟","rightAnswer":" الضوء ",
+   "falseAnswer1":" صدي الصوت","falseAnswer2":" الهواء ","falseAnswer3":"الماء "}
+   ,{"question":"  ما هو الشي الذي يتكلم جميع لغات العالم ؟","rightAnswer":" صدي الصوت",
+   "falseAnswer1":" الضوء ","falseAnswer2":" الهواء ","falseAnswer3":"الماء "}
+   ,{"question":"ما إسم الشجره التي لا ظل لها و لا ثمار ؟","rightAnswer":"شجرة العائلة",
+   "falseAnswer1":"شجرة الموز","falseAnswer2":" شجرالتفاحة ","falseAnswer3":"شجرة البرتقال "}
+   ,{"question":"من يزن اكثر كيلو “النحاس” ام كيلو “الالمونيوم” ","rightAnswer":" نفس الوزن ",
+   "falseAnswer1":" النحاس","falseAnswer2":" الالمونيوم","falseAnswer3":"غير ذلك "}
+   ,{"question":"ما هو الباب الذي لا يمكن فتحه ؟","rightAnswer":" الباب المفتوح",
+   "falseAnswer1":"باب الغرفة ","falseAnswer2":"باب البيت ","falseAnswer3":"باب القلب "}
+   ,{"question":" ليس لها بدايه و ليس لها نهايه .. فماهي ؟","rightAnswer":"الدائره ",
+   "falseAnswer1":" المربع ","falseAnswer2":"المثلث ","falseAnswer3":"غير ذلك "}
+   ,{"question":" في الشتاء خمس .. و في الصيف ثلاث .. فما هي ؟","rightAnswer":"النقاط ",
+   "falseAnswer1":"درجة الحراره ","falseAnswer2":" درجة الرطوبة","falseAnswer3":" مقياس الضباب"}
+   ,{"question":" يوجد في استراليا و امريكا و اوروبا و لا يوجد في آسيا .. فما هو؟ ","rightAnswer":" حرف الراء",
+   "falseAnswer1":"الصحراء","falseAnswer2":" الغابات","falseAnswer3":" الانهار"}
+   ,{"question":"ما هو آخر الدنيا ؟","rightAnswer":"حرف الألف",
+   "falseAnswer1":" الحب","falseAnswer2":"الكره ","falseAnswer3":" غير ذلك"}
+   ,{"question":"عائلة مؤلفة من 6 بنات وأخ لكل منهن، فكم عدد أفراد العائلة ؟  ","rightAnswer":"9 ",
+   "falseAnswer1":"15 ","falseAnswer2":" 11","falseAnswer3":"13 "}
+   ,{"question":"أذكر خمسة أرقام متتالية من الشهر مجموعها 100 ؟ ","rightAnswer":"18-19-20-21-22",
+   "falseAnswer1":"11-12-13-14-15","falseAnswer2":" 14-15-16-17-18","falseAnswer3":"16-19-27-28-29"}
+   ,{"question":"اكتشف الرقم الخطأ في المجموعة التالية :60 ، 52 ، 45 ، 39 ، 35 ","rightAnswer":"35 ",
+   "falseAnswer1":"38","falseAnswer2":"60","falseAnswer3":"45"}
+   ,{"question":"الساعة تشير إلى الثالثة وخمس وخمسين دقيقة ، كم يكون الوقت لو احتل عقرب الساعات محل عقرب الدقائق والعكس ؟","rightAnswer":"الحادية عشر والربع",
+   "falseAnswer1":" الثانية عشر الا ربع","falseAnswer2":" الخماسه ونصف","falseAnswer3":" السابعه وربع"}
+   ,{"question":"اسم رجل من اربع حروف اذا عكسته اصبح اسم بنت واول حرفين من اسمه اداة استفهام ؟  ","rightAnswer":"ماهر",
+   "falseAnswer1":"سيف","falseAnswer2":"ياسر","falseAnswer3":"سامح"}
+   ,{"question":"يبلغ مجموع التلاميذ في الصف 25 تلميذاً ، رسب 40% منهم ، فكم هو عدد الناجحين ؟ ","rightAnswer":"15 طالبا",
+   "falseAnswer1":"20 طالبا","falseAnswer2":"11 طالبا","falseAnswer3":"12 طالبا"}
+   ,{"question":"إجمع 4 تسعات بطريقة ليكون الناتج 100؟ ","rightAnswer":"99+9/9 ",
+   "falseAnswer1":"99+99","falseAnswer2":"9+99+9","falseAnswer3":"9x9+9-9"}
+   ,{"question":"نحن ومثلنا ونصفنا وربعنا وانت  = 100 فكم نحن ؟","rightAnswer":"36",
+   "falseAnswer1":"55","falseAnswer2":"22","falseAnswer3":"25"}
+   ,{"question":" رجل اشترى ساعة ب80 جنية  ثم باعها ب90 جنية  ثم اشتراها ب 70 جنية ثم باعها ب100 جنية ثم اشتراها ب 110 جنية ثم باعها ب200 جنية فكم بقي معه ؟","rightAnswer":"200",
+   "falseAnswer1":"90","falseAnswer2":"80","falseAnswer3":"60"}
+   ,{"question":"معلم لديه عشرون طالب في الفصل وزع عليهم مبلغ 200 جنية  حيث حصل كل طالب ممتاز على 50 جنية و حصل كل طالب جيد على 5 جنية  و حصل كل طالب ضعيف على 2.5 جنية
+والسؤال كم كان عدد الطلاب الممتازين والجيدين والضعاف ؟","rightAnswer":"3 طالب  ممتاز- 3 طالب جيد - 14  طالب ضعيف",
+   "falseAnswer1":"5 طالب  ممتاز- 5 طالب جيد - 10  طالب ضعيف","falseAnswer2":"4 طالب  ممتاز- 4 طالب جيد - 12  طالب ضعيف","falseAnswer3":"6 طالب  ممتاز- 6 طالب جيد - 8  طالب ضعيف"}
+   ,{"question":"ما هي أطول سورة فى القرآن ؟","rightAnswer":"سورة البقرة",
+   "falseAnswer1":"سورة آل عمران","falseAnswer2":"سورة المائدة ","falseAnswer3":"سورة الكهف"}
+   ,{"question":"إلي أي لغة تنتمي كلمة طباشير ","rightAnswer":"اللغة التركية",
+   "falseAnswer1":" اللغة الانجليزية ","falseAnswer2":"اللغه الصينية","falseAnswer3":"اللغة الفرنسية  "}
+   ,{"question":"كلمة أستاذ التي تعني (معلم)الي أي لغة تنتمي","rightAnswer":"اليونانية",
+   "falseAnswer1":"اللغة الفرنسية  ","falseAnswer2":"اللغة الانجليزية ","falseAnswer3":"اللغة التركية" }
+   ,{"question":"تنتمي الارض الي مجره اسمها :","rightAnswer":"درب التبانه",
+   "falseAnswer1":"زحل","falseAnswer2":"المريخ","falseAnswer3":"عطارد"}
+   ,{"question":"عدد كواكب مجموعتنا الشمسيه","rightAnswer":"9",
+   "falseAnswer1":"10","falseAnswer2":"5","falseAnswer3":"15"}
+   ,{"question":"الكوكب المسمى بالكوكب الأحمر ","rightAnswer":"المريخ",
+   "falseAnswer1":"الارض","falseAnswer2":"زحل","falseAnswer3":"بلوتو"}
+   ,{"question":"الكوكب المسمي بالكوكب الازرق","rightAnswer":"الارض",
+   "falseAnswer1":"المريخ","falseAnswer2":"نبتون","falseAnswer3":"زحل"}
+   ,{"question":"ما هو العضو الوحيد في جسم الإنسان الذي يعود للنمو بعد قطع جزء منه ؟","rightAnswer":"الكبد",
+   "falseAnswer1":"القلب","falseAnswer2":"المعده","falseAnswer3":"الكلي"}
+   ,{"question":" ما هو لون العيون الأكثر حساسيةللضوء ؟","rightAnswer":"الزرقاء",
+   "falseAnswer1":"السوداء","falseAnswer2":"الخضراء","falseAnswer3":"البنيه"}
+   ,{"question":"شخص يسكن في مبنى مكون من عدة أدوار ، إذا نزل 3 أدوار أصبح مافوقه من أدوار ضعف ماتحته ، وإذا صعد دورين أصبح ماتحته ضعف مافوقه من أدوار ، فكم دور بالمبنى ، وبأي دور يسكن هذا الشخص .","rightAnswer":"عدد الأدوار 16 وهو يسكن في التاسع",
+   "falseAnswer1":"عدد الأدوار 10 وهو يسكن في الخامس","falseAnswer2":"عدد الأدوار 12 وهو يسكن في الاثاني","falseAnswer3":"عدد الأدوار 6 وهو يسكن في الرابع"}
+   ,{"question":" لدى خالد 200 كتاب وزادت الكتب بنسبة 5 % ثم زادت بنسبة 10 % فكم عددها ؟ ","rightAnswer":"231",
+   "falseAnswer1":"220","falseAnswer2":"215","falseAnswer3":"260"}
+   ,{"question":" ولد عمره 8 سنوات وعمر والده 44 سنة وقال له والده عندما يكون عمرك ربع عمري سأشتري لك ساعة ثمينة فبعد كم سنة سيحصل الولد على الساعة ؟ ","rightAnswer":" 4 سنوات ",
+   "falseAnswer1":"10  سنوات","falseAnswer2":"12 سنوات","falseAnswer3":"6 سنوات"}
+   ,{"question":" إذا علمت أن جد سالم توفي سنة 1872 م ، وأن سالم توفي بعدميلاد جده بمقدار 131 سنة ، وإن مجموع عمري سالم وجده 105سنوات ، ففي أي سنة ولد سالم ..","rightAnswer":" 1898 ",
+   "falseAnswer1":"  1920","falseAnswer2":" 1930 ","falseAnswer3":" 1886 "}
+   ,{"question":"قال الشاعر { لك الثلثان من قلبي وثلثا ثلثه الباقي ..وثلثا ثلث ما يبقى وثلث الثلث للساقي ..وتبقى أسهم سته تقسم بين عشاقي .. }فكم قسم قسّم هذا الشاعر قلبه؟؟","rightAnswer":" 81 قسما",
+   "falseAnswer1":"60 قسما","falseAnswer2":"74 قسما","falseAnswer3":"54 قسما"}
+   ,{"question":"أب عمره الآن ضعف عمر ابنه وبعد مضي سنة واحدة يصبح عمره مقلوب (عكس)عمر ابنه فكم عمر الأب وعمر الأبن الآن ؟","rightAnswer":"عمر الأب 72  وعمر الابن 36 ",
+   "falseAnswer1":" عمر الأب 43  وعمر الابن 24 ","falseAnswer2":"عمر الأب 53  وعمر الابن 28 ","falseAnswer3":" عمر الأب 63  وعمر الابن 38 "}
+   ,{"question":"وقف طير على شجرة فيها مجموعة من الطيور فقال لهم :
+السلام عليكم أيها المئة إلا أن أحد الطيور أجابه قائلاًً نحن لسنا مئة ولكن إذا جمعت عددنا مع مثلنا ونصفنا وربعنا وانت معنا نصبح مئة.. كم عدد الطيور الأصلي على الشجرة ؟","rightAnswer":"36  طيراً",
+   "falseAnswer1":"22  طيراً","falseAnswer2":"42  طيراً","falseAnswer3":"32  طيراً"}
+   ,{"question":" يقوم المهندس خالد ببناء حائط منزل خلال 4 ساعات عمل متواصلة ، بينما يقوم المهندس حامد ببناء نفس الحائط في 6 ساعات متواصلة ، فإذا جمعنا المهندس حامد والمهندس خالد فكم من الوقت يستغرق بناء الحائط نفسه ؟؟","rightAnswer":"2:40",
+   "falseAnswer1":"3:20","falseAnswer2":"نفس الوقت","falseAnswer3":"4:10"}
+   
+]
+
+}

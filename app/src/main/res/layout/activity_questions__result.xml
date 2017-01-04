@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#437fb1"
+    tools:context="net.elsehrawy.questions_game.Questions_Result">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@drawable/bg5"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Result"
+                android:textSize="40sp"
+                android:id="@+id/Txt17"
+                android:textColor="@color/white"
+                android:layout_weight="1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Result"
+                android:textSize="40sp"
+                android:id="@+id/Txt18"
+                android:textColor="@color/result_Color"
+                android:layout_weight="1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Result"
+                android:textSize="40sp"
+                android:id="@+id/Txt19"
+                android:textColor="@color/white"
+                android:layout_weight="1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Try_Agian"
+                android:onClick="GoHome"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:background="@color/wrong_ans"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@drawable/bg5"
+                android:scaleType="fitXY"
+                android:scaleY="-1"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+
+    </LinearLayout>
